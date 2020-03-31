@@ -319,7 +319,7 @@ query MyQuery {
 **Task 1: Install Apollo Dependencies**
 
 ```bash
-npm install apollo-boost @apollo/react-hooks graphqlnpm install apollo-boost @apollo/react-hooks graphql
+npm install apollo-boost @apollo/react-hooks graphql
 ```
 
 **Task 2: Create Apollo Client**

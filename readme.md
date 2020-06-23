@@ -337,6 +337,8 @@ const client = new ApolloClient({
 **Task 3: Connect Client to App with ApolloProvider**
 
 ```js
+import { ApolloProvider } from '@apollo/react-hooks';
+
 ReactDOM.render(
   <React.StrictMode>
     <ApolloProvider client={client}>
